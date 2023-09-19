@@ -1,27 +1,24 @@
 # Inmersión de Datos en Alura Latam / Data Immersion at Alura Latam
 
-Este programa educativo brindado por Alura Latam marca el comienzo ideal para quienes desean adentrarse en las oportunidades que brinda el análisis de datos mediante Python.
+<details>
+  <summary>🇪🇸 Español</summary> 
 
-Starting from the basics, including data manipulation and creating graphical representations and models, we explore how Python becomes a powerful tool to support data-driven decision making.
+Te invito a explorar nuestro archivo, donde encontrarás un análisis detallado sobre el mercado inmobiliario de Bogotá. En este proyecto:
 
-## Contenido / Content
-
-- [Español](#español)
-- [English](#english)
-
----
-
-### Español
-
-* Utilización de Python para analizar el mercado inmobiliario de Bogotá, revelando tendencias y patrones clave.
-* Creación de visualizaciones dinámicas para facilitar la exploración de conocimientos de mercado.
-* Empleo de aprendizaje automático para ofrecer predicciones valiosas para compradores, vendedores y profesionales de la industria.
+* Utilizamos Python para profundizar en el mercado inmobiliario de Bogotá, desvelando tendencias y patrones clave.
+* Creamos visualizaciones interactivas y dinámicas que facilitan la exploración de información de mercado de manera intuitiva.
+* Empleamos técnicas de aprendizaje automático para ofrecer pronósticos valiosos, beneficiando a compradores, vendedores y profesionales de la industria.
 
 Si desea ver otros proyectos de mi portfolio, puede hacerlo en el siguiente link:
 
 [Enlace a mi portafolio](https://jonathanmejia7.github.io/)
 
-### English
+</details>
+
+<details>
+  <summary>🇺🇸 English </summary>
+
+I invite you to explore our file, where you will find a detailed analysis of the real estate market in Bogotá. In this project we:
 
 * Utilized Python to analyze Bogotá's housing market, unveiling key trends and patterns.
 * Created dynamic visuals for easy exploration of market insights.
